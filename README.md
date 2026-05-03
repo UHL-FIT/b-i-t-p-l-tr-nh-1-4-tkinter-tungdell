@@ -4,3 +4,6 @@
 Bài tập lộ trình 1-4
 
 Commit các file bài tập đã làm.
+bài tập có sử dụng AI để hỗ trợ, sẽ chỉnh sửa nếu có yêu cầu
+
+--bài tập này thuộc về trần đức tùng--
